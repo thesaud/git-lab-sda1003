@@ -1,2 +1,5 @@
-# Git Lab
-## Notes\nThis is a Git learning lab.
+
+## Notes 
+This is a Git learning lab.
+This project is for learning Git.
+
