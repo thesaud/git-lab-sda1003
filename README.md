@@ -1,2 +1,1 @@
-# Welcome to Git Lab
-## Project Description
+# Git Lab
